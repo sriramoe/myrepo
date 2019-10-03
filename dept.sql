@@ -1,7 +1,7 @@
-create table dept
+create table department
 (
 dep_id number,
-dep_name varcher2(200),
+dep_name varchar2(200),
 dept_status number,
-active_yaers number
-)
+active_years number
+);
